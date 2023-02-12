@@ -32,7 +32,7 @@ const ProjectData = [
     title: "Personal Portfolio",
     text: "Created my personal portfolio app. using Typescript layout, React Hook Forms with Controlled components and Mui",
     view: " https://gowthamrajasekaran97.github.io/JS-Task/",
-    source: " https://github.com/GOWTHAMRAJASEKARAN97/JS-Task",
+    source: "https://github.com/GOWTHAMRAJASEKARAN97/Portfolio",
     techstack: [FaReact, SiTypescript, SiStyledcomponents],
   },
 ];
