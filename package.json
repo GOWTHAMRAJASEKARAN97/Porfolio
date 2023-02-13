@@ -53,6 +53,6 @@
     ]
   },
   "devDependencies": {
-    "@types/react-typical": "^0.1.0"
+    "@types/react-typical": "^0.1.3"
   }
 }
